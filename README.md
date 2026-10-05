@@ -6,7 +6,7 @@ Atualmente graduando em Ciência de Dados e Inteligência Artificial, construind
 
 - 🔭 Atualmente trabalhando no aprimoramento contínuo das minhas habilidades de engenharia de software (Plano de 60 Dias).
 - 🧠 Focando em aprofundar conhecimentos em arquitetura de software, otimização de consultas e desenvolvimento backend.
-- 📬 Como me encontrar: [Seu LinkedIn] | [Seu E-mail]
+- 📬 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/antoniodamasceno01/) | [Seu E-mail]
 
 ---
 
