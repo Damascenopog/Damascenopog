@@ -1,4 +1,4 @@
-# Olá, eu sou Antonio Damasceno!
+# Olá, eu sou Antonio Damasceno 👋
 
 ### Desenvolvedor de Software | Foco em Engenharia de Software e Dados
 
@@ -18,7 +18,6 @@ Minha stack principal para desenvolvimento de software, análise de dados e depl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Frontend:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,11 +28,7 @@ Minha stack principal para desenvolvimento de software, análise de dados e depl
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-**Metodologias Ágeis:**  
-![Scrum](https://img.shields.io/badge/Scrum-008272?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Scrumban](https://img.shields.io/badge/Scrumban-5C2D91?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
-**Infraestrutura & Ferramentas:**  
+**Infraestrutura & Ambiente:**  
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87C53F?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -54,7 +49,6 @@ Atualmente executando um plano intensivo de desenvolvimento técnico de 60 dias,
 ---
 
 ## 📊 Estatísticas do GitHub
----
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Damascenopog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
