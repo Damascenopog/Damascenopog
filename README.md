@@ -1,4 +1,4 @@
-# Olá, eu sou Antonio Damasceno! 👋
+# Olá, eu sou Antonio Damasceno!
 
 ### Desenvolvedor de Software | Foco em Engenharia de Software e Dados
 
@@ -6,7 +6,7 @@ Atualmente graduando em Ciência de Dados e Inteligência Artificial, construind
 
 - 🔭 Atualmente trabalhando no aprimoramento contínuo das minhas habilidades de engenharia de software (Plano de 60 Dias).
 - 🧠 Focando em aprofundar conhecimentos em arquitetura de software, otimização de consultas e desenvolvimento backend.
-- 📬 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/antoniodamasceno01/) | [Seu E-mail]
+- 📬 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/antoniodamasceno01/) | [Email](arfdamasceno@gmail.com)
 
 ---
 
@@ -54,6 +54,10 @@ Atualmente executando um plano intensivo de desenvolvimento técnico de 60 dias,
 ---
 
 ## 📊 Estatísticas do GitHub
+ e Java).*
+---
+
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Damascenopog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
