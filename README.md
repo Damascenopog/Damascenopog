@@ -54,10 +54,7 @@ Atualmente executando um plano intensivo de desenvolvimento técnico de 60 dias,
 ---
 
 ## 📊 Estatísticas do GitHub
- e Java).*
 ---
-
-## Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Damascenopog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
